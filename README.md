@@ -1,3 +1,5 @@
+# Just run the script: run_analysis.R with the project files in the working directory
+
 # defining the library to work
 
 library(dplyr)
